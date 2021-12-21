@@ -59,3 +59,8 @@ p {
 #navbar ul li :hover {
   background-color: black;
 }
+
+* {
+  margin: 0;
+  padding: 0;
+}
