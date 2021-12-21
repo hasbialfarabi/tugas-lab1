@@ -32,7 +32,7 @@ p {
   margin-left: auto;
 }
 
-#navbar {
+#navbar ul {
   list-style-type: none;
   margin: 0;
   padding: 0;
@@ -52,6 +52,10 @@ p {
   text-decoration: none;
 }
 
-ul :last-child {
+#navbar ul:last-child {
   float: right;
+}
+
+#navbar ul li :hover {
+  background-color: black;
 }
