@@ -108,3 +108,18 @@ tr:hover {
   bottom: 0;
   width: 100%;
 }
+
+.form-register {
+  position: static;
+  margin-bottom: 100px;
+}
+
+.form-register .content-form {
+  max-width: 70%;
+  margin: auto;
+}
+
+.content-form h1 {
+  margin-top: 20px;
+  margin-bottom: 40px;
+}
